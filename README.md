@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working With **Python,Django, Django_rest_framework,Django-celery,React,Next.js,Mysql, PostgreSQL,**
 
-- 👨‍💻 All of my projects are available at [piasblog.rg.gd](piasblog.rg.gd)
+- 👨‍💻 All of my projects are available at [piasblog.rg.gd](http://www.piasblog.rf.gd/)
 
 - 💬 Ask me about **Python**
 
