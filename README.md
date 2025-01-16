@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [piasblog.rg.gd](http://www.piasblog.rf.gd/)
 
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **mpias3721@gmail.com**
 
